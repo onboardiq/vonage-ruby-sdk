@@ -13,4 +13,4 @@ gem 'sorbet', :group => :development
 gem 'sorbet-runtime'
 gem 'phonelib'
 gem 'codecov', :require => false, :group => :test
-gem 'nexmo-jwt', git: 'https://github.com/tring-guwalanipooja/nexmo-jwt-ruby', branch: 'feature/dynamic-scope'
+gem 'nexmo-jwt', git: 'https://github.com/onboardiq/nexmo-jwt-ruby', branch: 'feature/jwt-version-fix'
